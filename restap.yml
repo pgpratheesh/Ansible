@@ -3,7 +3,7 @@
   become: yes
   vars:
     cli_user: ""
-    cli_username: ""
+    cli_username: "Test Build"
     g_password: global@123
     user: ""
 
