@@ -1,5 +1,5 @@
 ---
-- hosts: dev
+- hosts: localhost
   become: yes
   vars:
     cli_user: ""
