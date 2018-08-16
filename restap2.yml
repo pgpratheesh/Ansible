@@ -9,4 +9,4 @@
 
   tasks:
     - name: Testing rest api
-	  debug: msg="Rest API Starting"
+      debug: msg="Rest API Starting"
